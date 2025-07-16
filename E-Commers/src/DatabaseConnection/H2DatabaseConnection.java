@@ -21,7 +21,7 @@ public class H2DatabaseConnection {
             if (!dbDir.exists()) {
                 dbDir.mkdirs();
             }
-            
+            Class.forName("org.h2.Driver");
             con = DriverManager.getConnection(url, user, password);
 
             Statement stmt = con.createStatement();
@@ -49,7 +49,8 @@ public class H2DatabaseConnection {
         Connection con = null;
 
         try {
-
+            
+            Class.forName("org.h2.Driver");
             con = DriverManager.getConnection(url, user, password);
 
             Statement stmt = con.createStatement();

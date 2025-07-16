@@ -109,6 +109,8 @@ It simulates a real online shopping experience through a terminal interface — 
 
 ### ✅ Step 2: Running the Application (Based on IDE)
 
+	-> Before running the application, follow the instructions as per your IDE.
+
 	🟢 VS Code (Recommended)
 	
 		*** ✅ No additional setup is required.
@@ -155,4 +157,8 @@ It simulates a real online shopping experience through a terminal interface — 
 ### ✅ Step 3: Run The Application
 
 	*** Once all files are arranged as per project structure run the " ECommerceHome.java " file to run the Application
+
+
+### Constrains -> Better signup first and then try to login.
+
 		
