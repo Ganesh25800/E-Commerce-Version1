@@ -150,5 +150,9 @@ It simulates a real online shopping experience through a terminal interface — 
 		*** Select: lib/h2-2.3.232.jar and apply changes.
 
 		*** Navigate to ECommerceHome.java, right-click → Run As > Java Application.
-		
+
+
+### ✅ Step 3: Run The Application
+
+	*** Once all files are arranged as per project structure run the " ECommerceHome.java " file to run the Application
 		
